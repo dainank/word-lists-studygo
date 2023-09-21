@@ -1,0 +1,4 @@
+Доброе утро = Good morning
+Добрый день = Good afternoon
+Добрый вечер = Good evening
+спокойной ночи = Good night

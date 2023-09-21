@@ -1,0 +1,6 @@
+У меня есть = I have
+У вас есть = You have (formal)
+У него есть = He has
+У неё есть = She has
+У них есть = They have
+У тебя есть = Do you have
