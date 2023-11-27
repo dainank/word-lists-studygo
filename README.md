@@ -1,7 +1,7 @@
 #  StudyGo Wordlists
 > Collection of word lists to learn languages.
 
-**DISCLAIMER**: These lists are my own (and others), thus may contain mistakes! You can open up an issue if you spot any mistakes as a **native**/learning speaker.
+**DISCLAIMER**: These lists are my own (and others), thus may contain mistakes! You can open up an issue if you spot any inaccuracies as a **native**/learning speaker.
 
 ## Supported Languages
 > You can **contribute your own lists through issues/pull-requests** if desired.
