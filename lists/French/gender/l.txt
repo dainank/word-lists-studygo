@@ -1,1 +1,1 @@
-voiture = la
+voiture = la/une
