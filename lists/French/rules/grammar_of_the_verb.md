@@ -10,6 +10,14 @@ A verb is _said to be conjugated_ with the following _variables_:
 
 The **tables of conjugation** set out the variants that can be created from the above variables.
 
+Three groups of verbs exist:
+    - **-er** (Infinitive) / **-e** (1st-person of présent indicative)
+    - **-ir** (Infinitive) / **-is** (1st-person of présent indicative) / **-issant** (present participle)
+    - Other verbs (becoming extinct):
+        - **aller**
+        - **-ir** where indicative does not end in **-is** nor present in **-issant**
+        - **-oir**, **-re**
+
 # Variables
 
 ## Person
